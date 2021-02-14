@@ -18,9 +18,7 @@ Without further ado, let's get started.
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
    Get started
    Installation
    Configuraton
-   
