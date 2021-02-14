@@ -1,7 +1,16 @@
 ============
-Installation
+About the addon
 ============
 
-Install the package with pip::
+How it works
+--------
+Every browser sends its preffered language in the HTTP Header.
+This addon compares it to all installed languages and sets the right one automatically.
 
-    $ pip install read-the-docs-template
+Requirements
+--------
+Beside the normal requirements for a XF 2.1 installation, all installed languages need to have a language code.
+.. image:: locale.png
+  :width: 500
+  :alt: Locale setting
+In most cases you don't need to do anything, good translations have this option set up.
