@@ -22,3 +22,4 @@ Without further ado, let's get started.
    getstarted
    readme
    configuration
+   support
