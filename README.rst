@@ -1,6 +1,10 @@
 Installation
 ========
 
+.. image:: https://readthedocs.org/projects/xf-autolanguage-docs/badge/?version=latest
+:target: https://al-docs.feathery.design/en/latest/?badge=latest
+:alt: Documentation Status
+
 Install the addon like every other addon by uploading it directly via SFTP or the control panel.
 
 From control panel
