@@ -1,5 +1,5 @@
 ============
-1. Get started
+Get started
 ============
 
 How it works
