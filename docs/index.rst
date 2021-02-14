@@ -7,7 +7,7 @@ Auto Language
 ==================================================
 Automatically set user's language based on their browser language.
 
-Let's get started.
+Without further ado, let's get started.
 
 
 .. toctree::
