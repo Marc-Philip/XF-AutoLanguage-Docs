@@ -1,14 +1,15 @@
-Template
+Installation
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+First of all, install the addon like every other addon by uploading it directly via SFTP or the control panel.
 
-Look how easy it is to use:
+.. image:: addon.png
+  :width: 450
+  :alt: Addons
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+For the control panel method you need php zip::
+    sudo apt-get install php-zip
+    sudo yum install php-zip
 
 Features
 --------
