@@ -1,5 +1,5 @@
 ============
-About the addon
+Get started
 ============
 
 How it works
