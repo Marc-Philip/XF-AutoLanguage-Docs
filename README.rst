@@ -3,13 +3,14 @@ Installation
 
 First of all, install the addon like every other addon by uploading it directly via SFTP or the control panel.
 
-.. image:: docs/addon.png
+.. image:: addon.png
   :width: 450
   :alt: Addons
 
 For the control panel method you need php zip::
-    sudo apt-get install php-zip
-    sudo yum install php-zip
+
+	sudo apt-get install php-zip
+  sudo yum install php-zip
 
 Features
 --------
