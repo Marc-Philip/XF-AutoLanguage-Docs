@@ -3,7 +3,7 @@ Installation
 
 Install the addon like every other addon by uploading it directly via SFTP or the control panel.
 
-Installation from control panel
+From control panel
 ========
 
 .. image:: addon.png
@@ -18,3 +18,7 @@ For the control panel method you need php zip::
 Installing from archives must be explicitly enabled by adding the following line to src/config.php::
 
 	$config['enableAddOnArchiveInstaller'] = true;
+	
+(S)FTP
+========
+Upload the contents of the "upload" folder to your root XenForo directory.
