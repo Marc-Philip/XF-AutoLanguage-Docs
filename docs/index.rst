@@ -5,6 +5,11 @@
 
 Auto Language
 ==================================================
+
+.. image:: https://readthedocs.org/projects/xf-autolanguage-docs/badge/?version=latest
+:target: https://al-docs.feathery.design/en/latest/?badge=latest
+:alt: Documentation Status
+
 Automatically set user's language based on their browser language.
 
 Without further ado, let's get started.
