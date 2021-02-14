@@ -11,16 +11,21 @@ You can disable the Auto Language function for registered users by unticking the
   :width: 400
   :alt: Option1
 
+Saving
+------
+The addon saves when a language has been automatically selected for the user. This allows the user to change his language manually without interferences.
 
-The addon saves in the cookies, that a language has been automatically set. This allows the user to change his language manually without interferences.
+Guests
+^^^^^
 If you tick this option, the automatically detected language is forced for guests at every page load.
 
 .. image:: force.png
   :width: 550
   :alt: Option2
 
-
-This cookie can be saved many months for registered users. Type in "0" for keeping the setting only for the session. (not recommended)
+Users
+^^^^^
+For all registered users the information is saved in the database. How long should it be stored?
 
 .. image:: livetime.png
   :width: 650
