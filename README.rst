@@ -3,7 +3,7 @@ Installation
 
 First of all, install the addon like every other addon by uploading it directly via SFTP or the control panel.
 
-.. image:: addon.png
+.. image:: docs/addon.png
   :width: 450
   :alt: Addons
 
