@@ -10,6 +10,7 @@ This addon compares it to all installed languages and sets the right one automat
 Requirements
 --------
 Beside the normal requirements for a XF 2.1 installation, all installed languages need to have a language code.
+
 .. image:: locale.png
   :width: 500
   :alt: Locale setting
