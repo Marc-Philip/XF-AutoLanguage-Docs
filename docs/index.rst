@@ -19,6 +19,6 @@ Without further ado, let's get started.
 .. toctree::
    :maxdepth: 2
 
-   Get started
-   Installation
-   Configuraton
+   getstarted
+   readme
+   configuraton
