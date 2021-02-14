@@ -21,4 +21,4 @@ Without further ado, let's get started.
 
    getstarted
    readme
-   configuraton
+   configuration
