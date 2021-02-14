@@ -27,6 +27,6 @@ Users
 ^^^^^
 For all registered users the information is saved in the database. How long should it be stored?
 
-.. image:: livetime.png
+.. image:: durationreg.jpg
   :width: 650
   :alt: Option2
