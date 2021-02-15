@@ -9,4 +9,4 @@ Support
 
 You can send us a message anytime::
 
-	info@feathery.design
+	hello@feathery.design
