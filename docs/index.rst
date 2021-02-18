@@ -11,7 +11,7 @@ Auto Language
    :alt: Documentation Status
 
 
-Automatically set user's language based on their browser language.
+Automatically set the user's language based on their browser language.
 
 Without further ado, let's get started.
 
