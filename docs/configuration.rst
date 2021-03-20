@@ -30,3 +30,11 @@ For all registered users the information is saved in the database. How long shou
 .. image:: durationreg.jpg
   :width: 650
   :alt: Option2
+
+Fallback language
+------
+XenForo will select the default language (defined in the settings) if no matching language has been found.
+
+.. image:: languages.jpg
+  :width: 600
+  :alt: Languages
