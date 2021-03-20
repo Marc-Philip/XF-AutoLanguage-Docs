@@ -38,3 +38,6 @@ XenForo will select the default language (defined in the settings) if no matchin
 .. image:: languages.jpg
   :width: 600
   :alt: Languages
+  
+Example:
+If the users browser language is German, but only English (default) and Spanish are installed, English will be selected.
