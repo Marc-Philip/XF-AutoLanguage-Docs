@@ -10,3 +10,5 @@ Support
 You can send us a message anytime::
 
 	hello@feathery.design
+
+The addon is still maintained.
